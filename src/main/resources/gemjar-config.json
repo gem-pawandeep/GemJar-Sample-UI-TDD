@@ -6,12 +6,12 @@
   "gemjarSubID": "test_id",
   "dev": {
     "browserName": "firefox",
-    "launchUrl": "https://www.amazon.in",
+    "launchUrl": "https://demoqa.com/",
     "browserTimeout": 100
   },
   "prod": {
     "browserName": "chrome",
-    "launchUrl": "https://www.amazon.in",
+    "launchUrl": "https://demoqa.com/",
     "browserTimeout": 100
   }
 }

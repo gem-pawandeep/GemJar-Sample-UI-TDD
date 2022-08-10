@@ -4,20 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f05bbe-ca95-492d-88b9-4fe3298db9f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parallel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Objects/locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Pages/definations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Tests/QA_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Utility/commonFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testCase.json" afterDir="false" />
+    <list default="true" id="95f05bbe-ca95-492d-88b9-4fe3298db9f5" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Pages/ToolsQA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parallel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Parallel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Objects/locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Objects/ToolsQA_locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Pages/definations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Tests/QA_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Tests/QA_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Utility/commonFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Utility/commonFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testCase.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testCase.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +44,66 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.QA_Test.TestCaseName">
+  <component name="RunManager" selected="TestNG.C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/Parallel.xml">
+    <configuration name="C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/Parallel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GemJar_UI_Sample_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Parallel.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GemJar_UI_Sample_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QA_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GemJar_UI_Sample_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.GemJar_UI_Sample.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.GemJar_UI_Sample.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.GemJar_UI_Sample.Tests.QA_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QA_Test.FormToolsQA" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GemJar_UI_Sample_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.GemJar_UI_Sample.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.GemJar_UI_Sample.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.GemJar_UI_Sample.Tests.QA_Test" />
+      <option name="METHOD_NAME" value="FormToolsQA" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="QA_Test.TestCaseName" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GemJar_UI_Sample_Project" />
       <extension name="coverage">
@@ -68,28 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QA_Test.seeMoreFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="GemJar_UI_Sample_Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.qa.GemJar_UI_Sample.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.qa.GemJar_UI_Sample.Tests" />
-      <option name="MAIN_CLASS_NAME" value="com.qa.GemJar_UI_Sample.Tests.QA_Test" />
-      <option name="METHOD_NAME" value="seeMoreFunctionality" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/Parallel.xml" />
+        <item itemvalue="TestNG.C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/TestNG.xml" />
+        <item itemvalue="TestNG.QA_Test.FormToolsQA" />
+        <item itemvalue="TestNG.QA_Test" />
         <item itemvalue="TestNG.QA_Test.TestCaseName" />
-        <item itemvalue="TestNG.QA_Test.seeMoreFunctionality" />
       </list>
     </recent_temporary>
   </component>
@@ -102,6 +141,14 @@
       <option name="presentableId" value="Default" />
       <updated>1660032717222</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1660112189318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660112189318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>

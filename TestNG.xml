@@ -3,7 +3,7 @@
         <classes>
             <class name="com.qa.GemJar_UI_Sample.Tests.QA_Test"/>
             <methods>
-                <include name="launchedAmazon"/>
+                <include name="FormToolsQA"/>
             </methods>
         </classes>
     </test> <!-- Default test -->

@@ -1,10 +1,21 @@
 {
-  "TestCaseName": {
+  "FormToolsQA": {
     "runFlag": "Y",
     "category": "Test",
     "scenarioID": "V2S001",
     "inputData": {
-      "id": 1
+      "id": 1,
+      "fName":"Pawan",
+      "lName": "Deep",
+      "email": "pawan123@gmail.com",
+      "gender": "male",
+      "mobile": "1234567890",
+      "month": "July",
+      "year": "2000",
+      "path": "C:\\Users\\Pawan.Deep\\Desktop\\command.txt",
+      "address": "637 a saran bhawan sbi main branch",
+      "state":"NCR",
+      "city": "Delhi"
     }
   }
 }
