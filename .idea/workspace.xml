@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95f05bbe-ca95-492d-88b9-4fe3298db9f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Objects/locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Pages/definations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Tests/QA_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Utility/commonFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/testCase.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2D6wCWDSKxXTfoqVF2Gbs9ReJJN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.QA_Test.TestCaseName">
+    <configuration name="QA_Test.TestCaseName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GemJar_UI_Sample_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.GemJar_UI_Sample.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.GemJar_UI_Sample.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.GemJar_UI_Sample.Tests.QA_Test" />
+      <option name="METHOD_NAME" value="TestCaseName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QA_Test.seeMoreFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GemJar_UI_Sample_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.GemJar_UI_Sample.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.GemJar_UI_Sample.Tests" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.GemJar_UI_Sample.Tests.QA_Test" />
+      <option name="METHOD_NAME" value="seeMoreFunctionality" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.QA_Test.TestCaseName" />
+        <item itemvalue="TestNG.QA_Test.seeMoreFunctionality" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95f05bbe-ca95-492d-88b9-4fe3298db9f5" name="Changes" comment="" />
+      <created>1660032717222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660032717222</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
