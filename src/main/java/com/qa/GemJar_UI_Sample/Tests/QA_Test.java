@@ -9,6 +9,7 @@ import com.gemini.generic.ui.utils.DriverManager;
 import com.google.gson.JsonObject;
 import com.qa.GemJar_UI_Sample.Objects.ToolsQA_locators;
 import com.qa.GemJar_UI_Sample.Pages.ToolsQA;
+import com.qa.GemJar_UI_Sample.Utility.commonFunctions;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -21,7 +22,7 @@ import java.util.List;
 public class QA_Test extends GemjarTestngBase {
 
     @BeforeMethod
-    public void projectSecificBeforemethod(){
+    public void projectSecificBeforemethod() {
         DriverManager.setUpBrowser();
     }
 /*
@@ -39,19 +40,20 @@ public class QA_Test extends GemjarTestngBase {
     @Test(dataProvider = "GemJarDataProvider", dataProviderClass = GemJarDataProvider.class)
     public void FormToolsQA(JsonObject inputData) {
         // code
-        try{
-            String fname=inputData.get("fName").getAsString();
-            String lname=inputData.get("lName").getAsString();
-            String email=inputData.get("email").getAsString();
-            String gender=inputData.get("gender").getAsString();
-            String mobile=inputData.get("mobile").getAsString();
-            String month=inputData.get("month").getAsString();
-            String year=inputData.get("year").getAsString();
-            String path=inputData.get("path").getAsString();
-            String address=inputData.get("address").getAsString();
-            ToolsQA.fillForm(fname,lname,email,gender,mobile,month,year,path,address);
-        }catch (Exception e){
-            GemTestReporter.addTestStep("Execution Failed","Some Error Occurred",STATUS.FAIL);
+        try {
+            String fname = inputData.get("fName").getAsString();
+            String lname = inputData.get("lName").getAsString();
+            String email = inputData.get("email").getAsString();
+            String gender = inputData.get("gender").getAsString();
+            String mobile = inputData.get("mobile").getAsString();
+            String month = inputData.get("month").getAsString();
+            String year = inputData.get("year").getAsString();
+            String path = inputData.get("path").getAsString();
+            String address = inputData.get("address").getAsString();
+            commonFunctions.validateLink(inputData.get("url").getAsString());
+            ToolsQA.fillForm(fname, lname, email, gender, mobile, month, year, path, address);
+        } catch (Exception e) {
+            GemTestReporter.addTestStep("Execution Failed", "Some Error Occurred", STATUS.FAIL);
         }
     }
 

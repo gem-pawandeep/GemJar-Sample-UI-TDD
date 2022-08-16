@@ -4,17 +4,93 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f05bbe-ca95-492d-88b9-4fe3298db9f5" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Pages/ToolsQA.java" afterDir="false" />
+    <list default="true" id="95f05bbe-ca95-492d-88b9-4fe3298db9f5" name="Changes" comment="FINAL COMMIT WITH SINGLE AND PARALLEL TESTCASES EXECUTION REPORTS.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Parallel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Parallel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestNG.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Objects/locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Objects/ToolsQA_locators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Pages/definations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/GemJar UI Sample Report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129263413.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129265712.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129267901.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129268114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129270438.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129270660.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129272916.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129275207.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129277420.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129279615.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129279824.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129282074.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129284380.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129286682.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129288845.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129291023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129293233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129295450.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129297669.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129299976.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129304407.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129304589.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129304743.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129306930.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129307085.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-30-52/SS/SS1660129309247.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/GemJar UI Sample Report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129350006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129352306.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129354484.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129354766.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129357088.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129357361.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129359644.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129361969.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129364249.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129366485.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129366752.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129369053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129371416.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129373688.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129375946.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129378163.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129380409.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129382675.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129384926.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129387228.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129391672.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129391852.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129392033.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129394180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129394327.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129396499.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129411974.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129414359.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129416454.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129416803.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129418938.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129419050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129421177.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129423308.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129425636.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129427734.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129427844.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129430210.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129432549.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129434872.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129437182.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129439479.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129441768.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129444058.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129446147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129448251.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129452413.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129452717.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129453015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129455332.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129455615.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Report/10-Aug-2022/16-32-18/SS/SS1660129457936.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Objects/ToolsQA_locators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Objects/ToolsQA_locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Pages/ToolsQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Pages/ToolsQA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Tests/QA_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Tests/QA_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Utility/commonFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/GemJar_UI_Sample/Utility/commonFunctions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/testCase.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testCase.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +124,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/Parallel.xml">
+  <component name="RunManager" selected="TestNG.QA_Test.FormToolsQA">
     <configuration name="C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/Parallel.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GemJar_UI_Sample_Project" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/Parallel.xml" />
@@ -124,9 +200,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/Parallel.xml" />
-        <item itemvalue="TestNG.C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/TestNG.xml" />
         <item itemvalue="TestNG.QA_Test.FormToolsQA" />
+        <item itemvalue="TestNG.C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/TestNG.xml" />
+        <item itemvalue="TestNG.C:/Users/Pawan.Deep/IdeaProjects/GemJar_UI_Sample_Project/Parallel.xml" />
         <item itemvalue="TestNG.QA_Test" />
         <item itemvalue="TestNG.QA_Test.TestCaseName" />
       </list>
@@ -148,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660112189318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="FINAL COMMIT WITH SINGLE AND PARALLEL TESTCASES EXECUTION REPORTS.">
+      <created>1660129686139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660129686139</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +247,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="FINAL COMMIT WITH SINGLE AND PARALLEL TESTCASES EXECUTION REPORTS." />
+    <option name="LAST_COMMIT_MESSAGE" value="FINAL COMMIT WITH SINGLE AND PARALLEL TESTCASES EXECUTION REPORTS." />
   </component>
 </project>
