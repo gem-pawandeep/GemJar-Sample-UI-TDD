@@ -13,10 +13,12 @@
         <maven.compiler.target>18</maven.compiler.target>
     </properties>
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/com.gemecosystem.gemjar/gemjar-core -->
         <dependency>
             <groupId>com.gemecosystem.gemjar</groupId>
-            <artifactId>gemjar</artifactId>
-            <version>1.0.1</version>
+            <artifactId>gemjar-core</artifactId>
+            <version>1.0.7</version>
         </dependency>
+
     </dependencies>
 </project>
