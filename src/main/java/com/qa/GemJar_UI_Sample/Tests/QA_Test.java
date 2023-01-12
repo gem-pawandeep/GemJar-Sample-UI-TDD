@@ -1,28 +1,21 @@
 package com.qa.GemJar_UI_Sample.Tests;
 
+import com.gemini.generic.exception.GemException;
 import com.gemini.generic.reporting.GemTestReporter;
 import com.gemini.generic.reporting.STATUS;
 import com.gemini.generic.tdd.GemJarDataProvider;
 import com.gemini.generic.tdd.GemjarTestngBase;
-import com.gemini.generic.ui.utils.DriverAction;
 import com.gemini.generic.ui.utils.DriverManager;
 import com.google.gson.JsonObject;
-import com.qa.GemJar_UI_Sample.Objects.ToolsQA_locators;
 import com.qa.GemJar_UI_Sample.Pages.ToolsQA;
 import com.qa.GemJar_UI_Sample.Utility.commonFunctions;
-import org.openqa.selenium.WebElement;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
 
 public class QA_Test extends GemjarTestngBase {
 
     @BeforeMethod
-    public void projectSecificBeforemethod() {
+    public void projectSecificBeforemethod() throws GemException {
         DriverManager.setUpBrowser();
     }
 /*
@@ -36,7 +29,6 @@ public class QA_Test extends GemjarTestngBase {
         }
     }
 */
-
     @Test(dataProvider = "GemJarDataProvider", dataProviderClass = GemJarDataProvider.class)
     public void FormToolsQA(JsonObject inputData) {
         // code

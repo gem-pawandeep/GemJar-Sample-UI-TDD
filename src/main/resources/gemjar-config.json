@@ -3,6 +3,7 @@
   "projectName": "GemJar UI Sample Project",
   "reportName": "GemJar UI Sample Report",
   "gemjarUserName": "Pawan Deep",
+  "gemjarToken": "Token",
   "gemjarSubID": "test_id",
   "dev": {
     "browserName": "firefox",
