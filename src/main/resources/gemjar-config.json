@@ -5,6 +5,7 @@
   "gemjarUserName": "Pawan Deep",
   "gemjarToken": "Token",
   "gemjarSubID": "test_id",
+  "chromeOptions":"headless",
   "dev": {
     "browserName": "firefox",
     "launchUrl": "https://demoqa.com/",
