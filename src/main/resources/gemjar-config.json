@@ -1,19 +1,20 @@
 {
   "environment": "prod",
-  "projectName": "GemJar UI Sample Project",
-  "reportName": "GemJar UI Sample Report",
+  "projectName": "GemJar-Sample-UI-TDD",
+  "reportName": "GemJar-Test-Report",
   "gemjarUserName": "Pawan Deep",
   "gemjarToken": "Token",
   "gemjarSubID": "test_id",
-  "chromeOptions":"headless",
   "dev": {
     "browserName": "firefox",
     "launchUrl": "https://demoqa.com/",
-    "browserTimeout": 100
+    "browserTimeout": 100,
+    "implicitTimeout": 100
   },
   "prod": {
     "browserName": "chrome",
     "launchUrl": "https://demoqa.com/",
-    "browserTimeout": 100
+    "browserTimeout": 100,
+    "implicitTimeout": 100
   }
 }

@@ -13,14 +13,14 @@ public class ToolsQA {
         DriverAction.setImplicitTimeOut(100);
         DriverAction.setScriptTimeOut(100);
         DriverAction.setPageLoadTimeOut(100);
-        DriverAction.pageScroll(200, 300, true);
+        DriverAction.pageScroll(200, 300);
         DriverAction.waitSec(2);
         DriverAction.click(ToolsQA_locators.Forms, "Forms");
         DriverAction.waitSec(2);
-        DriverAction.pageScroll(200, 300, true);
+        DriverAction.pageScroll(200, 300);
         DriverAction.click(ToolsQA_locators.PracticeForm, "Practice Form");
         DriverAction.waitSec(2);
-        DriverAction.pageScroll(0, 300, true);
+        DriverAction.pageScroll(0, 300);
         DriverAction.typeText(ToolsQA_locators.firstName, firstName, "first name");
         DriverAction.waitSec(2);
         DriverAction.typeText(ToolsQA_locators.lastName, lastName, "last name");
@@ -35,7 +35,7 @@ public class ToolsQA {
             DriverAction.click(ToolsQA_locators.others, "Other");
         }
         DriverAction.waitSec(2);
-        DriverAction.pageScroll(0, 300, true);
+        DriverAction.pageScroll(0, 300);
         DriverAction.typeText(ToolsQA_locators.mobileNo, mobile, "Mobile");
         DriverAction.waitSec(2);
         DriverAction.click(ToolsQA_locators.dob, "Date of Birth");
@@ -56,16 +56,6 @@ public class ToolsQA {
         DriverAction.waitSec(2);
         DriverAction.typeText(ToolsQA_locators.address, address, "Address");
         DriverAction.waitSec(2);
-        DriverAction.setBrowserPosition(400, 1000);
-        DriverAction.waitSec(2);
-        DriverAction.pageScroll(0, 1200, true);
-        DriverAction.click(ToolsQA_locators.state, "state");
-        DriverAction.click(ToolsQA_locators.NCR, "NCR");
-        DriverAction.waitSec(2);
-        DriverAction.click(ToolsQA_locators.city, "city");
-        DriverAction.click(ToolsQA_locators.Delhi, "Delhi");
-        DriverAction.waitSec(2);
-        DriverAction.click(ToolsQA_locators.submit, "Submit");
     }
 
 }
